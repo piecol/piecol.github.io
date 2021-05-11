@@ -95,9 +95,9 @@ analytics:
 # Site Author
 author:
   name             : "pico"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/IMG/me.jpg"
   bio              : "joatmon"
-  location         : "Somewhere"
+  location         : "Modica, RG"
   email            :
   links:
     - label: "Email"
@@ -116,8 +116,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/piecol"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/pierluigicolangeli/"
 
 # Site Footer
 footer:
