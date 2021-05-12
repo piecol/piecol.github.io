@@ -288,14 +288,17 @@ defaults:
       layout: single
       author_profile: false
       share: true
-      defaults:
+      read_time: true
+      comments: # true
+      # share: true
+      # related: true
   # _pages
   - scope:
       path: ""
       type: pages #posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       # read_time: true
       # comments: # true
       # share: true
