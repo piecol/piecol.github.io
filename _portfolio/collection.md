@@ -1,23 +1,23 @@
 ---
-title: "Hello"
+title: "Portfolio"
 excerpt: "some designs"
 header:
   image: /assets/IMG/pcb.jpg
   teaser: /assets/IMG/pcb.jpg
 sidebar:
-  - title: "Role"
+  - title: "Jack of all trades.."
     image: /assets/IMG/me.jpg
-    image_alt: "logo"
+    image_alt: "pierluigi colangeli"
     text: "hardware software developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Skills"
+    text: "Rapid prototyping, CAD & CAM"
 gallery:
   - url: /assets/IMG/pcb.jpg
     image_path: /assets/IMG/pcb.jpg
-    alt: "placeholder image 1"
+    alt: "diy pcb"
   - url: /assets/IMG/pcb.jpg
-    image_path: /assets/IMG/pcb.jpg
-    alt: "placeholder image 2"
+    image_path: /assets/IMG/AM02_pcb_rendering.jpg
+    alt: "easyeda pcb rendering"
 ---
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
