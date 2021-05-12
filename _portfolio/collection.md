@@ -15,7 +15,7 @@ gallery:
   - url: /assets/IMG/pcb.jpg
     image_path: /assets/IMG/pcb.jpg
     alt: "diy pcb"
-  - url: /assets/IMG/pcb.jpg
+  - url: /assets/IMG/AM02_pcb_rendering.png
     image_path: /assets/IMG/AM02_pcb_rendering.jpg
     alt: "easyeda pcb rendering"
 ---
