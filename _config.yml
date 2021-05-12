@@ -263,7 +263,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
    # _portfolio
@@ -275,7 +275,7 @@ defaults:
       author_profile: false
       share: true
       read_time: true
-      comments: # true
+      # comments: true
       # share: true
       # related: true
   # _pages
@@ -287,7 +287,7 @@ defaults:
       author_profile: true
       # read_time: true
       # comments: # true
-      share: true
+      # share: true
       # related: true
 
 collections:
