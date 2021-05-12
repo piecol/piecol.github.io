@@ -288,6 +288,18 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages #posts
+    values:
+      layout: single
+      author_profile: true
+      # read_time: true
+      # comments: # true
+      # share: true
+      # related: true
 
 collections:
   portfolio:
