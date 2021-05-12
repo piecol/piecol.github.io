@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/IMG/mine.jpg
+  overlay_image: /assets/IMG/mine.png
 excerpt: "stuff"
 feature_row:
   - image_path: /assets/IMG/pcb.jpg
