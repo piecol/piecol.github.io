@@ -12,8 +12,8 @@ feature_row:
   - image_path: /assets/IMG/me.png
     alt: "customizable"
     title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    excerpt: "PCB design and manufacture"
+    url: "/portfolio/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/IMG/AM02_pcb_rendering.png
