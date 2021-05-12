@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/IMG/WEB/mine.png
 excerpt: "stuff"
 feature_row:
-  - image_path: /assets/IMG/pcb.jpg
+  - image_path: /assets/IMG/AM02/pcb.png
     title: "Printed Circuit Boards"
     excerpt: "PCB design and manufacturing, mostly with CNC"
     url: "/portfolio/"
