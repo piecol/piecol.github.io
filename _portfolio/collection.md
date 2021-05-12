@@ -8,9 +8,9 @@ sidebar:
   - title: "Jack of all trades.."
     image: /assets/IMG/me.jpg
     image_alt: "pierluigi colangeli"
-    text: "hardware software developer"
+    text: "hardware-software developer"
   - title: "Skills"
-    text: "Rapid prototyping, CAD & CAM"
+    text: "Rapid prototyping, CAD & CAM for 3D printing and PCBs"
 gallery:
   - url: /assets/IMG/pcb.jpg
     image_path: /assets/IMG/pcb.jpg
