@@ -294,7 +294,7 @@ defaults:
       path: ""
       type: pages #posts
     values:
-      layout: single
+      layout: spash
       author_profile: true
       # read_time: true
       # comments: # true
