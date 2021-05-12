@@ -10,8 +10,8 @@ excerpt: >
   <small><a href="https://github.com/piecol">github</a></small>
 feature_row:
   - image_path: /assets/IMG/pcb.jpg
-    title: "Boards"
-    excerpt: "PCB design and manufacture"
+    title: "Printed Circuit Boards"
+    excerpt: "PCB design and manufacturing, mostly with CNC"
     url: "/portfolio/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
