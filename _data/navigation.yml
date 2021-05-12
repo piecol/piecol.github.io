@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Portfolio"
-    url: https://piecol.github.io/portfolio/
+    url: https://piecol.github.io/portfolio/collection.md
   - title: "About"
     url: https://piecol.github.io/about/contact.md
   # - title: "Sample Posts"
