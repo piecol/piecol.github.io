@@ -101,7 +101,7 @@ author:
   email            :
   links:
     - label: " "
-      icon: "fab fa-fw  fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pierluigi-colangeli"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -117,7 +117,7 @@ author:
 footer:
   links:
     - label: " "
-      icon: "fab fa-fw  fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pierluigi-colangeli"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
