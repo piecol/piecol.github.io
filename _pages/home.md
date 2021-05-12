@@ -5,9 +5,6 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/IMG/pcb.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
 excerpt: >
   stuff.<br />
   <small><a href="https://github.com/piecol">github</a></small>
@@ -19,7 +16,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/IMG/AM02_pcb_rendering.png
     alt: "fully responsive"
     title: "Responsive layouts"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
