@@ -9,7 +9,7 @@ excerpt: >
   stuff.<br />
   <small><a href="https://github.com/piecol">github</a></small>
 feature_row:
-  - image_path: /assets/IMG/me.png
+  - image_path: /assets/IMG/pcb.jpg
     alt: "customizable"
     title: "Super customizable"
     excerpt: "PCB design and manufacture"
