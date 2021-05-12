@@ -100,8 +100,8 @@ author:
   location         : "Modica, RG"
   email            :
   links:
-    - label: "Linked-In"
-      icon: "fab fa-linkedin-in"
+    - label: " "
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/pierluigi-colangeli"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -116,8 +116,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Linked-In"
-      icon: "fab fa-linkedin-in"
+    - label: " "
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/pierluigi-colangeli"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
