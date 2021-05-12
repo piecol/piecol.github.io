@@ -4,10 +4,8 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/IMG/pcb.jpg
-excerpt: >
-  stuff<br />
-  <small><a href="https://github.com/piecol">github</a></small>
+  overlay_image: /assets/IMG/mine.jpg
+excerpt: "stuff"
 feature_row:
   - image_path: /assets/IMG/pcb.jpg
     title: "Printed Circuit Boards"
