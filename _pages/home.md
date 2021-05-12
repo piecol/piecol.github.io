@@ -8,7 +8,7 @@ header:
 excerpt: >
   stuff<br />
   <small><a href="https://github.com/piecol">github</a></small>
-feature_row:
+gallery:
   - image_path: /assets/IMG/pcb.jpg
     title: "Boards"
     excerpt: "PCB design and manufacture"
@@ -24,3 +24,4 @@ feature_row:
 ---
 
 {% include feature_row %}
+{% include gallery id="gallery" layout="half" caption="Some projects." %}
