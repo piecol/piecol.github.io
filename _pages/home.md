@@ -23,4 +23,4 @@ feature_row:
     btn_label: "Learn more"  
 ---
 
-{% include feature_row %}
+{% include feature_row type = center %}
