@@ -30,6 +30,13 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
+sidebar:
+  - title: "Jack of all trades.."
+    image: /assets/IMG/me.jpg
+    image_alt: "pierluigi colangeli"
+    text: "hardware-software developer"
+  - title: "Skills"
+    text: "Rapid prototyping, CAD & CAM for 3D printing and PCBs"
 ---
 
 {% include feature_row %}
