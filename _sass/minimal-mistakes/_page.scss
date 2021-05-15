@@ -198,13 +198,12 @@ body {
     .page__meta,
     .page__lead,
     .btn {
-      color: #fff;
+      color: mix(#fff, $primary-color, 25%) ;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
     .page__lead {
       max-width: $medium;
-      color: $background-color;
     }
 
     .page__title {
