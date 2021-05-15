@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/IMG/WEB/mine.png
-excerpt: "[ giz-moh ]"
+excerpt: "[ gizmos ]"
 feature_row:
   - image_path: /assets/IMG/AM02/pcb.png
     title: "Printed Circuit Boards"
