@@ -22,7 +22,7 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons i,
 .page__footer-follow .social-icons .svg-inline--fa  {
-  color: inherit;
+  color: $primary-color;
 }
 
 .ais-search-box .ais-search-box--input {
