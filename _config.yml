@@ -23,7 +23,7 @@ name                     : "Pierluigi Colangeli"
 description              : "projects"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "piecol/piecol.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/IMG/pcb.png"
 logo                     : "/assets/IMG/logo.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
