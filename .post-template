@@ -1,0 +1,21 @@
+---
+title: "New title"
+excerpt: "..."
+header:
+  image: /assets/IMG/AM02/pcb.png
+  teaser: /assets/IMG/AM02/pcb.png
+gallery:
+  - url: /assets/IMG/AM02/AM02_PCB_easyeda.png
+    image_path: /assets/IMG/AM02/AM02_PCB_easyeda.png
+gallery_flat:
+  - url: /assets/IMG/AM02/2spcb.png
+    image_path: /assets/IMG/AM02/2spcb.png
+
+author_profile: true
+#date: 2021-05-11 11:30:00 +0000
+last_modified_at: 2021-05-17 11:30:00 +0000
+toc: true
+toc_sticky: true
+toc_label: "Table of content"
+toc_icon: "bolt" 
+---
