@@ -15,13 +15,13 @@ feature_row:
   - image_path: /assets/IMG/3d_case.png
     title: "Rapid prototyping"
     excerpt: "Custom design and manufacturing in PET, TPU, ABS, PLA..."
-    url: "/categories/#3d/"
+    url: "/categories/#3d"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
   - image_path: /assets/IMG/WEB/tor.png
     title: "Photography"
     excerpt: "Digital, analog, caffenol prints"
-    url: "/categories/#photo/"
+    url: "/categories/#photo"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
