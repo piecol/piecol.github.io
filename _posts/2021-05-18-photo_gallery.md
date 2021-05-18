@@ -28,11 +28,7 @@ toc_icon: "bolt"
 ---
 # TTL
 
-##
-
-#
-{% include gallery caption="..." %}
-
+{% include gallery id="gallery_digital" caption="..." %}
 
 
 {% include video id="aEa7Ap2vkig" provider="youtube" %}
