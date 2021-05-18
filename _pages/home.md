@@ -9,13 +9,13 @@ feature_row:
   - image_path: /assets/IMG/AM02/pcb.png
     title: "Printed Circuit Boards"
     excerpt: "PCB design and manufacturing, mostly with CNC"
-    url: "/categories/#PCB"
+    url: "/categories/#pcb"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/IMG/3d_case.png
     title: "Rapid prototyping"
     excerpt: "Custom design and manufacturing in PET, TPU, ABS, PLA..."
-    url: "/categories/#3D/"
+    url: "/categories/#3d/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
