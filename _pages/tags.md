@@ -1,6 +1,6 @@
 ---
 title: Markup
 layout: tag
-permalink: /tags/PCBs/
+permalink: /portfolio/PCBs/
 taxonomy: PCBs
 ---
