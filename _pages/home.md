@@ -18,6 +18,12 @@ feature_row:
     url: "/categories/#3d/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
+  - image_path: /assets/IMG/hill.png
+    title: "Photography"
+    excerpt: "Digital, analog, caffenol prints"
+    url: "/categories/#photo/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
 ---
 
 {% include feature_row %}
