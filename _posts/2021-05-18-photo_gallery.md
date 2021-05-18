@@ -16,6 +16,7 @@ gallery_analog:
 author_profile: true
 #date: 2021-05-11 11:30:00 +0000
 last_modified_at: 2021-05-17 11:30:00 +0000
+categories: photo
 toc: true
 toc_sticky: true
 toc_label: "Table of content"
