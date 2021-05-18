@@ -12,6 +12,10 @@ gallery_digital:
 gallery_analog:
   - url: /assets/IMG/AM02/2spcb.png
     image_path: /assets/IMG/AM02/2spcb.png
+author_profile: true
+#date: 2021-05-11 11:30:00 +0000
+last_modified_at: 2021-05-17 11:30:00 +0000
+categories: photo
 
 author_profile: true
 #date: 2021-05-11 11:30:00 +0000
