@@ -9,7 +9,7 @@ feature_row:
   - image_path: /assets/IMG/AM02/pcb.png
     title: "Printed Circuit Boards"
     excerpt: "PCB design and manufacturing, mostly with CNC"
-    url: "/posts/"
+    url: "/categories/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/IMG/3d_case.png
