@@ -1,7 +1,7 @@
 ---
 title: PCB
 layout: category
-permalink: /portfolio/PCB/
+permalink: /categories/PCB/
 taxonomy: PCB
 ---
 
