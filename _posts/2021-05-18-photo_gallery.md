@@ -2,11 +2,11 @@
 title: "Some pics"
 excerpt: "..."
 header:
-  image: /assets/IMG/WEB/hill.png
-  teaser: /assets/IMG/WEB/hill.png
+  image: /assets/IMG/WEB/mine.png
+  teaser: /assets/IMG/WEB/mine.png
 gallery_digital:
-  - url: /assets/IMG/WEB/mine.png
-    image_path: /assets/IMG/WEB/mine.png
+  - url: /assets/IMG/WEB/hill.png
+    image_path: /assets/IMG/WEB/hill.png
   - url: /assets/IMG/WEB/ams.png
     image_path: /assets/IMG/WEB/ams.png
 gallery_analog:
