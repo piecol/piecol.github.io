@@ -6,7 +6,7 @@ header:
   teaser: /assets/IMG/ISAC/cover.jpeg
 gallery:
   - url: /assets/IMG/ISAC/cover.jpeg
-    image_path: /assets/IMG/ISAC/render.jpeg
+    image_path: /assets/IMG/ISAC/cover.jpeg
   - url: /assets/IMG/ISAC/render.jpg
     image_path: /assets/IMG/ISAC/render.jpg
   - url: /assets/IMG/ISAC/open.jpg
@@ -31,8 +31,11 @@ When I assemble surface mount components in combination with solder paste, I fin
 Isac is an hambugerized stack of common components:
 
 -5V mini vacuum pump
+
 -500mAh LiPo battery
+
 -TP4056 battery charger (with battery protection circuit)
+
 -1803BK motor driver
 
 ![ISAC](/assets/IMG/ISAC/render.jpg)
