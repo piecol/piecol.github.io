@@ -30,17 +30,15 @@ When I assemble surface mount components in combination with solder paste, I fin
 
 Isac is an hambugerized stack of common components:
 
--5V mini vacuum pump
+- 5V mini vacuum pump
 
--500mAh LiPo battery
+- 500mAh LiPo battery
 
--TP4056 battery charger (with battery protection circuit)
+- TP4056 battery charger (with battery protection circuit)
 
--1803BK motor driver
+- 1803BK motor driver
 
-![ISAC](/assets/IMG/ISAC/render.jpg)
-
-{% include gallery caption="rendering" %}
+{% include gallery caption="some pics" %}
 
 # A look inside 
 
