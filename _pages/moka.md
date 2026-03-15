@@ -31,11 +31,3 @@ Explore the MOKA project directly in the browser, including the full schematic h
   <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/fan_temp.kicad_sch"></kicanvas-source>
   <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/LattePanda_MOKA.kicad_pcb"></kicanvas-source>
 </kicanvas-embed>
-
-## Notes
-
-This page can later include:
-- technical architecture
-- photos and renders
-- use cases
-- revisions and roadmap
