@@ -50,7 +50,12 @@ I value open-source not only as a philosophy, but also as a concrete development
 
 My background is slightly unusual for a hardware developer: I hold a **PhD in Biology**.
 
+![Microinvertebrates](/assets/IMG/bio/bio1.png)
+
 At first this may seem unrelated, but it strongly shapes the way I approach engineering work. Research trained me to study complex problems carefully, understand unfamiliar domains quickly, and work with a methodical and ethical mindset. It taught me to ask better questions, evaluate evidence critically, and stay rigorous when dealing with uncertainty.
+
+![lab_experiment](/assets/IMG/bio/bio2.png)
+
 
 This is especially valuable when working on interdisciplinary or research-driven products, where understanding the broader context matters as much as solving the technical problem itself.
 
