@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 
 title: "Pierluigi Colangeli"
-excerpt: "Hardware developer · Embedded systems · Open-source design"
+excerpt: "Hardware dev · Embedded systems · Open-source design"
 
 header:
   overlay_image: /assets/IMG/WEB/mine.png
