@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/IMG/me_3.png
+  - image_path: /assets/IMG/me_4.png
     title: "About"
     excerpt: "Background, approach, and selected work across hardware, prototyping, and open-source development."
     url: "/about/"
