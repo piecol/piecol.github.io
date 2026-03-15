@@ -9,12 +9,21 @@ header:
 
 MOKA is a compact embedded hardware project focused on practical system integration, mechanical compatibility, and deployment-oriented design.
 
+![MOKA_FRONT](/assets/IMG/MOKA/moka_front.png)
+
 ## Highlights
 
-- compact embedded platform
-- designed with enclosure integration in mind
-- hardware-first development flow
-- practical product architecture
+- Gigabit ethernet
+- USB-PD @ 12V
+- HDMI
+- USB2.0 2X
+- USB3.0
+- M-Key M.2 PCIe 2230/42
+- E-Key M.2 PCIe 2230/42
+- CSI camera
+- Debug UART
+- QWIIK I2C
+- FAN
 
 ## Custom Aluminum Case
 
