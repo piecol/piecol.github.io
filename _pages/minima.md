@@ -4,7 +4,7 @@ permalink: /minima/
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/IMG/minima-cover.png
+  overlay_image: /assets/IMG/minima-hero.png
 ---
 
 CM5 Minima is a compact carrier board for Raspberry Pi Compute Module 5 designed to reduce footprint while keeping the board practical for real integration.
