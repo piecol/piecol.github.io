@@ -5,7 +5,7 @@ hidden: true
 
 header:
   overlay_image: /assets/IMG/WEB/mine.png
-  excerpt: "[ gizmos ]"
+  excerpt: "[ PCB Designer - System Integrator ]"
 
 feature_row:
   - image_path: /assets/IMG/minima-cover.png
