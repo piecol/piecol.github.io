@@ -16,14 +16,16 @@ CM5 Minima is a compact carrier board for Raspberry Pi Compute Module 5 designed
 - product-oriented design decisions
 - suitable for embedded integration
 
-## Browse
+## Interactive board viewer
+
+Explore the CM5 Minima PCB directly in the browser.
 
 <script type="module" src="https://kicanvas.org/kicanvas/kicanvas.js"></script>
 
-<kicanvas-embed controls="full" style="display:block; width:100%; height:800px;">
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV2/main/CM5_MINIMA_REV2.kicad_pro"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV2/main/CM5_MINIMA_REV2.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV2/main/CM5_MINIMA_REV2.kicad_pcb"></kicanvas-source>
+<kicanvas-embed
+  src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV2/main/CM5_MINIMA_REV3.kicad_pcb"
+  controls="basic"
+  style="display:block; width:100%; height:700px;">
 </kicanvas-embed>
 
 ## Links
