@@ -21,7 +21,7 @@ MOKA is a compact embedded hardware project focused on practical system integrat
 Explore the MOKA project directly in the browser, including the full schematic hierarchy and PCB layout.
 
 <iframe
-  src="https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fpiecol%2FCM5_MINIMA_REV3"
+  src="https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fpiecol%2Flattepanda_MOKA"
   width="100%"
   height="800"
   style="border:0; border-radius:12px; overflow:hidden;"
