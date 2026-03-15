@@ -20,21 +20,11 @@ MOKA is a compact embedded hardware project focused on practical system integrat
 
 Explore the MOKA project directly in the browser, including the full schematic hierarchy and PCB layout.
 
-<kicanvas-embed controls="full" style="display:block; width:100%; height:800px;">
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/LattePanda_MOKA.kicad_pro"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/LattePanda_MOKA.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/LattePanda%20Module.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/CSI.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/GPIO.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/Gigabit%20Ethernet.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/HDMI.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/M.2%20E%26M%20Key.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/PCIe%20x4.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/PSU.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/RTC.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/SENSORS.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/USB2.0%26USB3.0.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/fan%26temp.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/fan_temp.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/lattepanda_MOKA/main/LattePanda_MOKA.kicad_pcb"></kicanvas-source>
-</kicanvas-embed>
+<iframe
+  src="https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fpiecol%2FCM5_MINIMA_REV3"
+  width="100%"
+  height="800"
+  style="border:0; border-radius:12px; overflow:hidden;"
+  loading="lazy"
+  referrerpolicy="no-referrer">
+</iframe>
