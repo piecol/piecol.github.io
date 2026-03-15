@@ -11,3 +11,17 @@
 .site-logo img {
   max-height: 6rem; /* try 3rem, 4rem, or 5rem */
 }
+
+.page__hero--overlay {
+  min-height: 320px;
+}
+
+.page__hero-image {
+  background-position: center center;
+  background-size: cover;
+}
+
+.page__title,
+.page__lead {
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
