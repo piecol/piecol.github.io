@@ -2,28 +2,32 @@
 layout: splash
 permalink: /
 hidden: true
+
 header:
   overlay_image: /assets/IMG/WEB/mine.png
-excerpt: "[ gizmos ]"
+  excerpt: "[ gizmos ]"
+
 feature_row:
-  - image_path: /assets/IMG/AM02/pcb.png
-    title: "Printed Circuit Boards"
-    excerpt: "PCB design and manufacturing, mostly with CNC"
-    url: "/categories/#pcb"
+  - image_path: /assets/IMG/minima-cover.jpg
+    title: "CM5 Minima"
+    excerpt: "A compact carrier board for Raspberry Pi Compute Module 5, designed for minimal size and real-world integration."
+    url: "/minima/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/IMG/3d_case.png
-    title: "Rapid prototyping"
-    excerpt: "Custom design and manufacturing in PET, TPU, ABS, PLA..."
-    url: "/categories/#3d"
+
+  - image_path: /assets/IMG/moka-cover.jpg
+    title: "MOKA"
+    excerpt: "A compact embedded hardware platform focused on practical integration, enclosure-ready design, and deployment."
+    url: "/moka/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"  
-  - image_path: /assets/IMG/WEB/tor.png
-    title: "Photography"
-    excerpt: "Digital, analog, caffenol prints"
-    url: "/categories/#photo"
+    btn_label: "Learn more"
+
+  - image_path: /assets/IMG/me_3.png
+    title: "About"
+    excerpt: "Background, approach, and selected work across hardware, prototyping, and open-source development."
+    url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    btn_label: "Read bio"
 ---
 
 {% include feature_row %}
