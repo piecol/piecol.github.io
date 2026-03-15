@@ -6,3 +6,8 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* custom overrides */
+.site-logo img {
+  max-height: 4rem; /* try 3rem, 4rem, or 5rem */
+}
