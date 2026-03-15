@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/IMG/moka-hero2.png
 ---
 
-MOKA is a compact embedded hardware project focused on practical system integration, mechanical compatibility, and deployment-oriented design.
+MOKA is a compact carrier board for Lattepanda MU, x86 single-board computer.
 
 ![MOKA_FRONT](/assets/IMG/MOKA/moka_front.png)
 
