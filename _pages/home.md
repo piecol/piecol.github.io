@@ -5,7 +5,7 @@ hidden: true
 
 header:
   overlay_image: /assets/IMG/WEB/mine.png
-  excerpt: "[ PCB Designer - System Integrator ]"
+  excerpt: "[ Hardware developer · Embedded systems · Open-source design ]"
 
 feature_row:
   - image_path: /assets/IMG/minima-cover.png
