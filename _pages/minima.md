@@ -11,7 +11,7 @@ header:
 
 CM5 MINIMA R3 is my attempt to make a Raspberry Pi Compute Module 5 carrier board as compact and practical as possible without losing the features that matter in real projects. The result is a board that stays exactly in the spirit of its name: minimal in footprint, but not in ambition.
 
-Built around the Raspberry Pi Compute Module 5, CM5 MINIMA R3 keeps the board size down to **61 × 61 mm**, matching the footprint of the module itself. Despite that small form factor, it still provides the essentials for serious embedded work: **USB-C Power Delivery, Gigabit Ethernet, HDMI, CSI/DSI, and an M.2 M-key slot** for 2242 SSDs or Hailo AI accelerators. :contentReference[oaicite:1]{index=1}
+Built around the Raspberry Pi Compute Module 5, CM5 MINIMA R3 keeps the board size down to **61 × 61 mm**, matching the footprint of the module itself. Despite that small form factor, it still provides the essentials for serious embedded work: **USB-C Power Delivery, Gigabit Ethernet, HDMI, CSI/DSI, and an M.2 M-key slot** for 2242 SSDs or Hailo AI accelerators.
 
 ![Top view of the board](/assets/IMG/minima/minima-top.png)
 
