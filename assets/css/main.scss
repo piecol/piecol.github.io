@@ -8,6 +8,23 @@
 @import "minimal-mistakes"; // main partials
 
 /* custom overrides */
+
+.sidebar,
+.sidebar:hover,
+.author__avatar img,
+.author__avatar img:hover,
+.author__content,
+.author__content:hover,
+.author__urls,
+.author__urls:hover,
+.author__urls a,
+.author__urls a:hover {
+  opacity: 1 !important;
+  filter: none !important;
+  background: transparent !important;
+  transform: none !important;
+}
+
 .site-logo img {
   max-height: 4rem; /* try 3rem, 4rem, or 5rem */
 }
