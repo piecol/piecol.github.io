@@ -8,14 +8,14 @@ header:
   excerpt: "[ gizmos ]"
 
 feature_row:
-  - image_path: /assets/IMG/minima-cover.jpg
+  - image_path: /assets/IMG/minima-cover.png
     title: "CM5 Minima"
     excerpt: "A compact carrier board for Raspberry Pi Compute Module 5, designed for minimal size and real-world integration."
     url: "/minima/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/IMG/moka-cover.jpg
+  - image_path: /assets/IMG/moka-cover.png
     title: "MOKA"
     excerpt: "A compact embedded hardware platform focused on practical integration, enclosure-ready design, and deployment."
     url: "/moka/"
