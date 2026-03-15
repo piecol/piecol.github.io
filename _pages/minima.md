@@ -4,10 +4,8 @@ permalink: /minima/
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/IMG/minima-hero.jpg
+  overlay_image: /assets/IMG/minima-top.png
 ---
-
-![CM5 Minima hero shot](/assets/IMG/minima/minima-hero.jpg)
 
 ## CM5 MINIMA R3
 
