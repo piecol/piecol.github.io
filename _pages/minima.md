@@ -1,5 +1,5 @@
 ---
-title: "CM5 Minima"
+title: "CM5<br>MINIMA"
 permalink: /minima/
 layout: single
 classes: wide
@@ -17,7 +17,7 @@ Built around the Raspberry Pi Compute Module 5, CM5 MINIMA R3 keeps the board si
 
 ## Interactive board viewer
 
-Explore the CM5 Minima PCB directly in the browser.
+Explore the CM5 MINIMA PCB directly in the browser.
 
 <iframe
   src="https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fpiecol%2FCM5_MINIMA_REV3"
