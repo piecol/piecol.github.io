@@ -28,3 +28,7 @@ Explore the MOKA project directly in the browser, including the full schematic h
   loading="lazy"
   referrerpolicy="no-referrer">
 </iframe>
+
+## Link to Github repository
+
+https://github.com/piecol/lattepanda_MOKA
