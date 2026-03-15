@@ -6,8 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-## About
-
 I am a freelance hardware developer focused on turning ideas into robust, manufacturable products.
 
 I work with startups, scale-ups, and SMEs to bring electronic products to life, from early architecture and prototyping to refined, production-ready hardware. My work combines technical depth, practical decision-making, and a strong focus on quality, integration, and real-world constraints.
