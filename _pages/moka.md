@@ -23,7 +23,7 @@ Explore the MOKA project directly in the browser, including the full schematic h
 <iframe
   src="https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fpiecol%2Flattepanda_MOKA"
   width="100%"
-  height="800"
+  height="500"
   style="border:0; border-radius:12px; overflow:hidden;"
   loading="lazy"
   referrerpolicy="no-referrer">
