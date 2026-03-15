@@ -19,18 +19,14 @@ Built around the Raspberry Pi Compute Module 5, CM5 MINIMA R3 keeps the board si
 
 Explore the CM5 Minima PCB directly in the browser.
 
-<kicanvas-embed controls="full" style="display:block; width:100%; height:800px;">
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_pro"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/DSI_CSI.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/Ethernet.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/HDMI.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/IO.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/PCIe-M2.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/USB.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_pcb"></kicanvas-source>
-</kicanvas-embed>
+<iframe
+  src="https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fpiecol%2FCM5_MINIMA_REV3"
+  width="100%"
+  height="500"
+  style="border:0; border-radius:12px; overflow:hidden;"
+  loading="lazy"
+  referrerpolicy="no-referrer">
+</iframe>
 
 ## Why I designed it
 
