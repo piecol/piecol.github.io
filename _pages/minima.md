@@ -20,12 +20,17 @@ CM5 Minima is a compact carrier board for Raspberry Pi Compute Module 5 designed
 
 Explore the CM5 Minima PCB directly in the browser.
 
-<script type="module" src="https://kicanvas.org/kicanvas/kicanvas.js"></script>
-
-<kicanvas-embed
-  src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_pcb"
-  controls="basic"
-  style="display:block; width:100%; height:700px;">
+<kicanvas-embed controls="full" style="display:block; width:100%; height:800px;">
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_pro"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/DSI_CSI.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/Ethernet.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/HDMI.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/IO.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/PCIe-M2.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/USB.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_pcb"></kicanvas-source>
 </kicanvas-embed>
 
 ## Links
