@@ -3,9 +3,11 @@ layout: splash
 permalink: /
 hidden: true
 
+title: "Pierluigi Colangeli"
+excerpt: "Hardware developer · Embedded systems · Open-source design"
+
 header:
   overlay_image: /assets/IMG/WEB/mine.png
-  excerpt: "[ Hardware developer · Embedded systems · Open-source design ]"
 
 feature_row:
   - image_path: /assets/IMG/minima-cover.png
@@ -29,5 +31,4 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Read bio"
 ---
-
 {% include feature_row %}
