@@ -15,13 +15,13 @@ CM5 MINIMA R3 is my attempt to make a Raspberry Pi Compute Module 5 carrier boar
 
 Built around the Raspberry Pi Compute Module 5, CM5 MINIMA R3 keeps the board size down to **61 × 61 mm**, matching the footprint of the module itself. Despite that small form factor, it still provides the essentials for serious embedded work: **USB-C Power Delivery, Gigabit Ethernet, HDMI, CSI/DSI, and an M.2 M-key slot** for 2242 SSDs or Hailo AI accelerators. :contentReference[oaicite:1]{index=1}
 
-![Top view of the board](/assets/IMG/minima/minima-top.jpeg)
+![Top view of the board](/assets/IMG/minima/minima-top.png)
 
 ## Why I designed it
 
 CM5 MINIMA started as a personal design exercise and quickly turned into something bigger. I wanted to push myself on high-speed board design while creating a carrier board that felt truly usable: compact enough for tight integrations, but still flexible enough for prototyping, embedded products, edge AI experiments, and custom systems.
 
-That design philosophy shaped the whole board. The goal was not to add every possible connector, but to choose the right ones and arrange them in a way that makes the platform practical in the real world. Seeed’s own introduction to the project describes it as a compact, open-source platform aimed at applications such as edge AI, IoT, robotics, and embedded vision, which is very much aligned with the intent behind the design. :contentReference[oaicite:2]{index=2}
+That design philosophy shaped the whole board. The goal was not to add every possible connector, but to choose the right ones and arrange them in a way that makes the platform practical in the real world. Seeed’s own introduction to the project describes it as a compact, open-source platform aimed at applications such as edge AI, IoT, robotics, and embedded vision, which is very much aligned with the intent behind the design.
 
 ## Small board, serious capability
 
@@ -38,7 +38,7 @@ A few features I consider especially important:
 - **LIS3DH accelerometer** added in R3 for automatic camera orientation in vision-based applications  
 - improved I2C behavior in R3 based on practical feedback from earlier revisions :contentReference[oaicite:3]{index=3}
 
-![Detail shot or angled render](/assets/IMG/minima/minima-detail.jpeg)
+![Detail shot or angled render](/assets/IMG/minima/minima-detail.png)
 
 ## Open-source hardware, built in public
 
