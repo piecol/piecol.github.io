@@ -4,7 +4,7 @@ permalink: /moka/
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/IMG/moka-cover.png
+  overlay_image: /assets/IMG/moka-hero.png
 ---
 
 MOKA is a compact embedded hardware project focused on practical system integration, mechanical compatibility, and deployment-oriented design.
