@@ -51,7 +51,7 @@ A few features I consider especially important:
 - **CSI/DSI** support for camera and display integration  
 - **M.2 M-key 2242 support** for storage or Hailo acceleration  
 - **LIS3DH accelerometer** added in R3 for automatic camera orientation in vision-based applications  
-- improved I2C behavior in R3 based on practical feedback from earlier revisions :contentReference[oaicite:3]{index=3}
+- improved I2C behavior in R3 based on practical feedback from earlier revisions
 
 ![Detail shot or angled render](/assets/IMG/minima/minima-detail.png)
 
@@ -59,15 +59,15 @@ A few features I consider especially important:
 
 Another important aspect of CM5 MINIMA is that it was not developed behind closed doors. It grew as an open project, shaped by iteration, practical constraints, and community feedback.
 
-That matters because compact hardware is often a tradeoff exercise: mechanical limits, routing density, connector placement, manufacturability, thermals, and user expectations all compete with each other. The open-source nature of the project helped keep those tradeoffs visible, discussable, and improvable over time. Seeed’s launch article frames the board as a community-supported open-source design that evolved from a personal project into a more mature, manufacturable product, which is a fair summary of the path it took. :contentReference[oaicite:4]{index=4}
+That matters because compact hardware is often a tradeoff exercise: mechanical limits, routing density, connector placement, manufacturability, thermals, and user expectations all compete with each other. The open-source nature of the project helped keep those tradeoffs visible, discussable, and improvable over time. Seeed’s launch article frames the board as a community-supported open-source design that evolved from a personal project into a more mature, manufacturable product, which is a fair summary of the path it took.
 
 ## From open project to product with Seeed Studio Co-create
 
 One of the most meaningful parts of this journey has been seeing CM5 MINIMA become part of the **Seeed Studio Co-create** program.
 
-According to Seeed, bringing CM5 MINIMA R3 from prototype to production involved support across manufacturing, supply chain, testing, branding, and launch. In their description of the collaboration, they specifically mention working with me to move the board from an open hardware concept into a globally available product. :contentReference[oaicite:5]{index=5}
+According to Seeed, bringing CM5 MINIMA R3 from prototype to production involved support across manufacturing, supply chain, testing, branding, and launch. In their description of the collaboration, they specifically mention working with me to move the board from an open hardware concept into a globally available product.
 
-For me, that is what makes the co-create aspect interesting: it is not just distribution. It is the bridge between an independent hardware idea and a product that can actually reach more people with better production quality and better operational support. Seeed describes its contribution in three main areas: production support, prototype testing, and product launch visibility. :contentReference[oaicite:6]{index=6}
+For me, that is what makes the co-create aspect interesting: it is not just distribution. It is the bridge between an independent hardware idea and a product that can actually reach more people with better production quality and better operational support. Seeed describes its contribution in three main areas: production support, prototype testing, and product launch visibility.
 
 That collaboration turned CM5 MINIMA into something larger than a board release. It became a case study for how open-source hardware can evolve when design independence meets manufacturing experience.
 
@@ -92,8 +92,3 @@ You can explore the project in more detail through the interactive KiCad viewer 
 - [Seeed Studio product page](https://www.seeedstudio.com/CM5-MINIMA-p-6485.html)
 - [Seeed Studio launch article](https://www.seeedstudio.com/blog/2025/08/04/introducing-the-cm5-minima-r3-a-compact-open-source-powerhouse-for-raspberry-pi-cm5/)
 - [GitHub repository](https://github.com/piecol/CM5_MINIMA_REV3)
-
-## Links
-
-- [GitHub repository](https://github.com/piecol/CM5_MINIMA_REV3)
-
