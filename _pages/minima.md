@@ -61,9 +61,7 @@ That matters because compact hardware is often a tradeoff exercise: mechanical l
 
 One of the most meaningful parts of this journey has been seeing CM5 MINIMA become part of the **Seeed Studio Co-create** program.
 
-According to Seeed, bringing CM5 MINIMA R3 from prototype to production involved support across manufacturing, supply chain, testing, branding, and launch. In their description of the collaboration, they specifically mention working with me to move the board from an open hardware concept into a globally available product.
-
-For me, that is what makes the co-create aspect interesting: it is not just distribution. It is the bridge between an independent hardware idea and a product that can actually reach more people with better production quality and better operational support. Seeed describes its contribution in three main areas: production support, prototype testing, and product launch visibility.
+According to Seeed, bringing CM5 MINIMA R3 from prototype to production involved support across manufacturing, supply chain, testing, branding, and launch. For me, that is what makes the co-create aspect interesting: it is not just distribution. It is the bridge between an independent hardware idea and a product that can actually reach more people with better production quality and better operational support.
 
 That collaboration turned CM5 MINIMA into something larger than a board release. It became a case study for how open-source hardware can evolve when design independence meets manufacturing experience.
 
