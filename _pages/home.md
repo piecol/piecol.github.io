@@ -11,7 +11,7 @@ header:
 
 feature_row:
   - image_path: /assets/IMG/minima-cover.png
-    title: "CM5 Minima"
+    title: "CM5 MINIMA"
     excerpt: "A compact carrier board for Raspberry Pi CM5, designed for minimal size and real-world integration."
     url: "/minima/"
     btn_class: "btn--primary"
