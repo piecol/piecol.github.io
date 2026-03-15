@@ -16,6 +16,11 @@ MOKA is a compact embedded hardware project focused on practical system integrat
 - hardware-first development flow
 - practical product architecture
 
+## Custom Aluminum Case
+
+![MOKA_CASE](/assets/IMG/MOKA/moka_case_.png)
+
+
 ## Interactive KiCad viewer
 
 Explore the MOKA project directly in the browser, including the full schematic hierarchy and PCB layout.
