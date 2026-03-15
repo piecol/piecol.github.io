@@ -17,6 +17,23 @@ Built around the Raspberry Pi Compute Module 5, CM5 MINIMA R3 keeps the board si
 
 ![Top view of the board](/assets/IMG/minima/minima-top.png)
 
+## Interactive board viewer
+
+Explore the CM5 Minima PCB directly in the browser.
+
+<kicanvas-embed controls="full" style="display:block; width:100%; height:800px;">
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_pro"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/DSI_CSI.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/Ethernet.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/HDMI.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/IO.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/PCIe-M2.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/USB.kicad_sch"></kicanvas-source>
+  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_pcb"></kicanvas-source>
+</kicanvas-embed>
+
 ## Why I designed it
 
 CM5 MINIMA started as a personal design exercise and quickly turned into something bigger. I wanted to push myself on high-speed board design while creating a carrier board that felt truly usable: compact enough for tight integrations, but still flexible enough for prototyping, embedded products, edge AI experiments, and custom systems.
@@ -77,23 +94,6 @@ You can explore the project in more detail through the interactive KiCad viewer 
 - [Seeed Studio product page](https://www.seeedstudio.com/CM5-MINIMA-p-6485.html)
 - [Seeed Studio launch article](https://www.seeedstudio.com/blog/2025/08/04/introducing-the-cm5-minima-r3-a-compact-open-source-powerhouse-for-raspberry-pi-cm5/)
 - [GitHub repository](https://github.com/piecol/CM5_MINIMA_REV3)
-
-## Interactive board viewer
-
-Explore the CM5 Minima PCB directly in the browser.
-
-<kicanvas-embed controls="full" style="display:block; width:100%; height:800px;">
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_pro"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/DSI_CSI.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/Ethernet.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/HDMI.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/IO.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/PCIe-M2.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/USB.kicad_sch"></kicanvas-source>
-  <kicanvas-source src="https://raw.githubusercontent.com/piecol/CM5_MINIMA_REV3/main/CM5_MINIMA_3.kicad_pcb"></kicanvas-source>
-</kicanvas-embed>
 
 ## Links
 
