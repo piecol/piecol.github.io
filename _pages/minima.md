@@ -22,7 +22,7 @@ Explore the CM5 MINIMA PCB directly in the browser.
 <iframe
   src="https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fpiecol%2FCM5_MINIMA_REV3"
   width="100%"
-  height="800"
+  height="700"
   style="border:0; border-radius:12px; overflow:hidden;"
   loading="lazy"
   referrerpolicy="no-referrer">
